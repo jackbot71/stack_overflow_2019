@@ -31,7 +31,7 @@ Copies of the zip files containing the original data that was used in the analys
 
 ## Results <a name='results'></a>
 
-Results and analysis are concisely explained in the Jupyter Notebook. A less technical overview of the results is presented in the Medium post [here](_link to follow_).
+Results and analysis are concisely explained in the Jupyter Notebook. A less technical overview of the results is presented in the Medium post [here](https://medium.com/@jackbot71/what-language-should-you-learn-as-a-data-scientist-173475523291).
 
 ## Licensing, Authors, and Acknowledgements <a name='licensing'></a>
 
